@@ -1,0 +1,6 @@
+export * from './HeroSection'
+export * from './Navbar'
+export * from './Features'
+export * from './Testimonials'
+export * from './CTA'
+export * from './Footer'
