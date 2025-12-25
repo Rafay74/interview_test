@@ -14,7 +14,7 @@ const CTA = () => {
 
             {/* Text Content */}
             <div className="mb-8">
-              <h2 className="font-avenir font-bold text-gray-900 text-4xl lg:text-5xl leading-tight whitespace-nowrap">
+              <h2 className="font-avenir font-bold text-gray-900 text-4xl lg:text-5xl leading-tight lg:whitespace-nowrap">
                 Superpowers starting $9.99/month.
               </h2>
               <p className="font-avenir font-bold text-gray-900 text-4xl lg:text-5xl leading-tight">
